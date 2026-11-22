@@ -1,0 +1,8 @@
+{
+    "test_accuracy": 0.5490196347236633,
+    "rest_loss": 0.662680447101593,
+    "epochs_completed": 7,
+    "training_images": 306,
+    "validation_images": 78,
+    "testing_images": 51
+}

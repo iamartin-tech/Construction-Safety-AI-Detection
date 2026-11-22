@@ -1,0 +1,17 @@
+[
+    {
+        "image": "-4405-_png_jpg.rf.937688313347dbcd3b24201dd7882906.jpg",
+        "status": "Completed (previous run)",
+        "detections": 3
+    },
+    {
+        "image": "000005_jpg.rf.c613c066b79795d219855aca269760e6.jpg",
+        "status": "API request failed",
+        "detections": 0
+    },
+    {
+        "image": "002551_jpg.rf.b09484b130c1587abfa8365c3d774bf1.jpg",
+        "status": "Completed (previous run)",
+        "detections": 11
+    }
+]
